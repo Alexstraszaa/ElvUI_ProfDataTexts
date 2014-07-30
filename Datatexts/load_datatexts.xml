@@ -1,0 +1,17 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">	
+	<Script file='prof_alchemy.lua'/>
+	<Script file='prof_archaeology.lua'/>
+	<Script file='prof_blacksmithing.lua'/>
+	<Script file='prof_cooking.lua'/>
+	<Script file='prof_enchanting.lua'/>
+	<Script file='prof_engineering.lua'/>
+	<Script file='prof_firstaid.lua'/>
+	<Script file='prof_fishing.lua'/>
+	<Script file='prof_herbalism.lua'/>
+	<Script file='prof_inscription.lua'/>
+	<Script file='prof_jewelcrafting.lua'/>
+	<Script file='prof_leatherworking.lua'/>
+	<Script file='prof_mining.lua'/>
+	<Script file='prof_skinning.lua'/>
+	<Script file='prof_tailoring.lua'/>
+</Ui>
